@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://under120shed.com/sitemap.xml
